@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Building for myself</h1>
+  <h1>Building random stuff</h1>
 </div>
 
 <div align="center">
